@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="criar_tarefa">Criar tarefa</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="hora">Hora</string>
+    <string name="data">Data</string>
+    <string name="titulo">Título</string>
+    <string name="empty_state">Ainda não há\n tarefas aqui... :(</string>
+</resources>
